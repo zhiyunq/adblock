@@ -8190,7 +8190,6 @@ _popunder+$popup
 ###AdcBB_AdContainer
 ###Adcode
 ###Adlabel
-###Adrectangle
 ###Ads-C
 ###Ads-D-728x90-hori
 ###Ads270x510-left
@@ -10831,7 +10830,6 @@ _popunder+$popup
 ###adsdiv468
 ###adsdiv_close
 ###adsection
-###adsense
 ###adsense-2
 ###adsense-468x60
 ###adsense-area
