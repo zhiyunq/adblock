@@ -20192,7 +20192,6 @@ _popunder+$popup
 ##.afns-ad-sponsor-logo
 ##.afsAdvertising
 ##.afsAdvertisingBottom
-##.afs_ads
 ##.aft-top-728x90
 ##.aftContentAdLeft
 ##.aftContentAdRight
