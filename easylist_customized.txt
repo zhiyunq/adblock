@@ -19181,7 +19181,6 @@ _popunder+$popup
 ##.adsboxitem
 ##.adsbttmpg
 ##.adsbycircumventioncentral
-##.adsbygoogle
 ##.adsbygoogle-box
 ##.adsbygoogle2
 ##.adsbysinodia
