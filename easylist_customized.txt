@@ -9540,7 +9540,6 @@ _popunder+$popup
 ###adSpace_right
 ###adSpace_top
 ###adSpacer
-###adSpecial
 ###adSplotlightEm
 ###adSponsor
 ###adSpot-Leader
